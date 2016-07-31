@@ -22,14 +22,6 @@ if newgame:
     map.show_map()
     print(len(map.map))
     print(len(map.map[0]))
-    # player.Backpack.add_monster(m.sample_monster2.name, m.sample_monster2.level,
-    #                            m.sample_monster2.attack,
-    #                            m.sample_monster2.defense,
-    #                            m.sample_monster2.mtype,
-    #                            m.sample_monster2.abilities,
-    #                            m.sample_monster2.item)
-    # print("You have gained the starter %s" % m.sample_monster2.name)
-    # print(p.currentMonster)
     while start:
         moving = input("What would you like to do? ")
         if moving == "done":

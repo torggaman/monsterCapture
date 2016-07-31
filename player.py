@@ -35,8 +35,7 @@ class Backpack(object):
 # Backpack:
 #
 #
-# Computer:
-#   store monster
+# Store monster:
 #
 # Menu:
 #   Monsters currently equipped
@@ -49,8 +48,6 @@ class Backpack(object):
 #
 # Capture:
 #
-#
-# Gym
 #
 #
 # Time passing:

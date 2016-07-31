@@ -17,7 +17,7 @@ class Monster(object):
     def capture_monster(self):
         pass
 
-# If the random int is
+# If the random int is larger than 80 player will be in a battle
 def random_encounter():
     if random.randint(0, 100) > 80:
         game.player_status = "battle"

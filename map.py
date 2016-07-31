@@ -53,10 +53,3 @@ def check_events():
                 if map[ycoord][xcoord] != "P":
                     map[ycoord][xcoord] = etype
     show_map()
-
-# class WorldMap:
-#    def __init__(self):
-#        for a in range(10):
-#             for b in range(10):
-#                 map.append([(a + 1), (b + 1)])
-#    pass

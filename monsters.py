@@ -27,7 +27,7 @@ sample_monster = Monster("test 1", 1, 10, 1, 1, "normal", {'scratch': 1}, [])
 sample_monster2 = Monster("test 2", 99, 999, 99, 99, "normal", {'scratch': 1}, [])
 
 
-class Encounter():
+class Encounter:
     pass
 
 
